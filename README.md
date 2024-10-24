@@ -1,3 +1,4 @@
+![CC BY-NC 4.0][]
 Introduction
 Design a word game for vocabulary learning for S1 to S5 students
 
